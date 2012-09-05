@@ -1,0 +1,27 @@
+1 walk 2
+2 walk 1
+1 car 2
+2 car 1
+2 walk 3
+3 walk 2
+
+Außerhalb2 portal 1
+1 portal Außerhalb2
+
+2 portal "Bahnhof"
+"Bahnhof" portal 2
+
+3 jetpack Außerhalb1
+Außerhalb1 jetpack 3
+
+1 swim 756
+
+756 jetpack "Bahnhof"
+756 jetpack "Bahnhof"
+"Bahnhof" jetpack 756
+756 jetpack "Bahnhof"
+"Bahnhof" jetpack 756
+"Bahnhof" jetpack 756
+
+"Bahnhof" train "Bahnhof"
+

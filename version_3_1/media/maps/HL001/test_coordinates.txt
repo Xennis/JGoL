@@ -1,0 +1,8 @@
+1 67 69
+2 688 76
+3 788 260
+"Bahnhof" 681 435
+756 131 446
+Außerhalb1 855 591
+Außerhalb2 -15 -18
+EinsameInsel 358 260

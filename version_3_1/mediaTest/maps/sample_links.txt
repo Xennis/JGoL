@@ -1,0 +1,11 @@
+1 walk 2
+1 walk 5
+
+2 walk 1
+2 walk 3
+
+1 car 3
+1 car 15
+
+2 swim 32
+2 swim 153

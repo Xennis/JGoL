@@ -1,0 +1,99 @@
+language=English
+
+# General
+next=Next
+abort=Abort
+back=Back to menu
+chooseSavegame=Choose savegame
+
+# Main menu
+gameName=Gangs of Lübeck
+newGame=New game
+loadGame=Load game
+exitGame=Exit game
+about=<html><p align="right">JGoL v3.0 (inspired by Scotland Yard) <br> by Fabian R., Raphael A., Felix K. and Jasper S.</p></html>
+
+# Load menu
+lGTitel=Load game
+lGContentBoxBorderTitel=Choose your savegame
+lGChooseButton=Load game
+
+# Gamemode select
+gMThiefDoubleTickets=0 Thief doubletickets,1 Thief doubleticket,2 Thief doubletickets,3 Thief doubletickets,4 Thief doubletickets,5 Thief doubletickets
+gMThiefBlackTickets=0 Thief blacktickets,1 Thief blackticket,2 Thief blacktickets,3 Thief blacktickets,4 Thief blacktickets,5 Thief blacktickets
+gMPoliceDoubleTickets=0 Police doubletickets,1 Police doubleticket,2 Police doubletickets,3 Police doubletickets,4 Police doubletickets,5 Police doubletickets
+gMPoliceBlackTickets=0 Police blacktickets,1 Police blacktickets,2 Police blacktickets,3 Police blacktickets,4 Police blacktickets,5 Police blacktickets
+gMTitel=Gamemode
+gMMaps=Choose your map
+gMSettings=Settings
+gMNumberOfPlayers=Number of players
+gMPlayer=Players:
+gMMapPreview=Map preview
+gMMapInfo=Map info
+gMTicketTyp=Ticket types
+gMMaxFigures=Max. figurecount
+gMTicketChoose=Choose tickets
+gMShowThiefBox=Possible thief positions
+gMPossibleThiefLabel=Enable function:
+
+# PlayerSetting
+pSTitel=Player configuration
+pSPlayer=Player  
+pSPlayerPanelBox=Setup your player
+pSColor=Color: 
+pSType=Type: 
+pSPlayerName=Insert a player name!
+pSFigureCount=Figure count: 
+pSFiguresLeft= Figures left: 
+pSStartGame=Start game
+pSTypes=Thief,Police
+pSColors=Blue,Red,Black,Green,Yellow,Gray
+pSBotOrPlayer=Human,Bot(easy),Bot(hard)
+
+# FigureSetting
+fSTitel=Figure configuration
+
+# Menubar
+menu_game=Game
+menuitem_newgame=New game
+menuitem_savegame=Save game
+menuitem_loadgame=Load game
+menuitem_endgame=End game
+menu_info=Info
+menu_about=About
+menudialog_aboutdialog=<html>Version v3.0 <br> by Fabian R.<br>Raphael A.<br>Felix K.<br>Jasper S.<br><br><br> Inspired by Scotland Yard</html>
+menudialog_close=Close
+menu_options=Language
+playeroptions=Game options
+surrender=Surrender
+possibleThief=possible thief positions
+# Gameview
+zoomin=Zoom-in
+zoomout=Zoom-out
+nextround=Choose position!
+yourfigures=Your Figures
+figurelist=<2> - Figure <1>
+Gamestats=JGoL round <1> (Please place figure <2>!)
+TabThiefTickets=Thief tickets
+TabThiefPos=Thief positions
+ConfDesc=You are about to move figure <1> to position <2>. Please choose a ticket type or press abort
+noMove=No tickets, continue!
+abortText=Abort!
+confirmText=confirm
+noMoveDesc=You don't have enough tickets/there is already a cop on your field, you have to skip this round!
+thiefTickets=Round,Player,Figure,used ticket
+thiefPosition=Figure,Last known position
+playerchange=The next player(<1>)'s move is next, please change seats!
+doubleTicketText=activate for double ticket
+botWaitDesc=Bot is making a move, please wait!
+progressBarText=Please wait!
+# eState
+eStateDesc=Congratulations <1>! You've won the game, click continue for another game!
+continueText=Continue
+logText=View Log
+logClose=Close Log
+
+#The Kevinator
+KevArray=Smoker,Quatzer,Styler,Möchtegern,Pedo,Ego,Emo,Pedro,Gier,Disco,Suff,Whipped,Smart,Pedo pirscher,Dirty disco dancer,Delphi,Öko,Anti,Pseudo,Hacker,Kevinismus,Fail,Beziehungs,Styler,Hippster,A1,Zicken,Kevin,Homo
+FirstName=Peter,Paul,Felix,Jasper,Fabian,Raphael,Mathis,Alexander,Rene,Kat,Dominique,Anna,Susi,Fabela,Leah,Sonja,Lotta,Christina,Klaas,Claudia,Franziska,Steve,Betina
+SecondName=the fast,the pervert,the angry bird,the pink wizard,the THE,the mother of god,the pain bringer,the woodeater,the honey pu,the sousage eater,the milf,the gilf,the bot hunter,the willis

@@ -1,0 +1,101 @@
+language=Deutsch
+
+# General
+next=Weiter
+abort=Abbrechen
+back=Zurück zum Menü
+chooseSavegame=Wähle Spielstand
+
+# Main menu
+gameName=Banden von Lübeck
+newGame=Neues Spiel
+loadGame=Spiel laden
+exitGame=Spiel beenden
+about=<html><p align="right">JGoL v3.0 (inspired by Scotland Yard) <br> by Fabian R., Raphael A., Felix K. and Jasper S.</p></html>
+
+# Load menu
+lGTitel=Spiel laden
+lGContentBoxBorderTitel=Wählen Sie Ihr  Spiel aus
+lGChooseButton=Spiel laden
+
+# Gamemode select
+gMThiefDoubleTickets=0 Dieb Doppeltickets,1 Dieb Doppelticket,2 Dieb Doppeltickets,3 Dieb Doppeltickets,4 Dieb Doppeltickets,5 Dieb Doppeltickets
+gMThiefBlackTickets=0 Dieb Blacktickets,1 Dieb Blackticket,2 Dieb Blacktickets,3 Dieb Blackticketss,4 Dieb Blacktickets,5 Dieb Blacktickets
+gMPoliceDoubleTickets=0 Polizist Doppeltickets,1 Polizist Doppelticket,2 Polizist Doppeltickets,3 Polizist Doppeltickets,4 Polizist Doppeltickets,5 Polizist Doppeltickets
+gMPoliceBlackTickets=0 Polizist Blacktickets,1 Polizist Blackticket,2 Polizist Blacktickets,3 Polizist Blacktickets,4 Polizist Blacktickets,5 Polizist Blacktickets
+gMTitel=Spiel Modus
+gMMaps=Bitte wählen Sie eine Karte
+gMSettings=Einstellungen
+gMNumberOfPlayers=Spieleranzahl
+gMRounds=Runden
+gMPlayer=Spieler
+gMMapPreview=Karten Vorschau
+gMMapInfo=Map Informationen
+gMTicketTyp=Ticket Arten
+gMMaxFigures=Max. Figurenanzahl
+gMTicketChoose=Anzahl Sondertickets
+gMShowThiefBox=Mögl. Diebespositionen zeigen
+gMPossibleThiefLabel=Funktion ein:
+
+# PlayerSetting
+pSTitel=Spieler Konfiguration
+pSPlayer=Spieler 
+pSPlayerPanelBox=Konfigurieren Sie ihren Spieler
+pSColor=Farbe: 
+pSType=Typ: 
+pSPlayerName=Hier Spielername eintragen!
+pSFigureCount=Spielfiguren: 
+pSFiguresLeft= Spielfiguren verfügbar: 
+pSStartGame=Spiel starten
+pSTypes=Dieb,Polizist
+pSColors=Blau,Rot,Schwarz,Grün,Gelb,Grau
+pSBotOrPlayer=Mensch,Bot(einfach),Bot(schwer)
+
+# FigureSetting
+fSTitel=Figuren Einstellungen
+
+# Menubar
+menu_game=Spiel
+menuitem_newgame=Neues Spiel
+menuitem_savegame=Spiel speichern
+menuitem_loadgame=Spiel laden
+menuitem_endgame=Spiel beenden
+menu_info=Info
+menu_about=Über
+menudialog_aboutdialog=<html>Version 3.0 <br> von Fabian R.<br>Raphael A.<br>Felix K.<br>Jasper S.<br><br><br> Inspiriert durch Scotland Yard</html>
+menudialog_close=Schließen
+menu_options=Sprache
+playeroptions=Spiel-optionen
+surrender=Aufgeben
+possibleThief=Mögliche Diebespositionen
+# Gameview
+zoomin=Reinzoomen
+zoomout=Herauszoomen
+nextround=Wähle Position!
+yourfigures=Deine Figuren
+figurelist=<2> - Figur <1>
+Gamestats=JGoL Runde <1> (Bitte Figur <2> setzen!)
+TabThiefTickets=Diebe-Tickets
+TabThiefPos=Diebe-Positionen
+ConfDesc=Möchtest du wirklich Figur <1> zu Position <2> bewegen? Falls ja, wähle jetzt dein Ticket oder drücke auf abbrechen!
+noMove=Kein Ticket,weiter!
+abortText=Abbrechen!
+confirmText=Bestätigen
+noMoveDesc=Du hast keine Tickets mehr um dich zu bewegen/es ist bereits ein anderer Cop auf dem Feld, setze eine runde aus!
+thiefTickets=Runde,Spieler,Figur,benutzte Ticket
+thiefPosition=Figur,Letzte bekannte Position
+playerchange=Nächster Spieler (<1>) ist dran, bitte Plätze tauschen!
+doubleTicketText=Aktivieren für double ticket!
+botWaitDesc=Bot setzt gerade, bitte warten!
+progressBarText=Bitte warten!
+
+# eView
+eStateDesc=Herzlichen Glückwunsch <1>! Du hast gewonnen, klicke auf Weiter! um ein neues Spiel zu starten!
+continueText=Weiter!
+logText=Log ansehen!
+logClose=Log schliessen!
+
+#The Kevinator
+KevArray=Smoker,Quatzer,Styler,Möchtegern,Pedo,Ego,Emo,Pedro,Gier,Disco,Suff,Whipped,Smart,Pedo pirscher,Dirty disco dancer,Delphi,Öko,Anti,Pseudo,Hacker,Kevinismus,Fail,Beziehungs,Styler,Hippster,A1,Zicken,Kevin,Homo,Fritten
+FirstName=Peter der,Paul der,Felix der,Jasper der,Fabian der,Raphael der,Mathis der,Alexander der,Rene der,Kat die,Dominique die,Anna die,Susi die,Fabela die,Leah die,Sonja die,Lotta die,Christina die,Klaas der ,Claudia die,Franziska die,Steve der,Betina die
+SecondName=Schmerzbringer/in,pinke Zauberer/in,Der/Die,Mutter Gottes,Holzesser/in,Würstchen Esser/in,bot Jäger/in,Willis,Hund/in,böse Schmetterling/in
